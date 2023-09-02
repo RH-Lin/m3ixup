@@ -5,7 +5,7 @@ Official Implementation of "Adapt and Explore: Multimodal Mixup for Representati
 ![Overview](docs/Figure1_Overview.png)
 
 ## Table of Contents
-- [Setup/Installation](#setup/installation)
+- [Setup/Installation](#setup\/installation)
 - [Download Datasets](#download-datasets)
 - [Download Pre-trained Models](#download-pre-trained-models)
 - [Evaluation](#evaluation)
