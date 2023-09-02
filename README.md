@@ -5,13 +5,12 @@ Official Implementation of "Adapt and Explore: Multimodal Mixup for Representati
 ![Overview](docs/Figure1_Overview.png)
 
 ## Table of Contents
-- [Setup/Installation](##Setup/Installation)
-- [Download Datasets](##Download Datasets)
-- [Download Pre-trained Models](##Download Pre-trained Models)
-- [Evaluation](##Evaluation)
-- [Train](##Train)
-- [Acknowledgments](##Acknowledgments)
-
+- [Setup/Installation](#Setup/Installation)
+- [Download Datasets](#Download-Datasets)
+- [Download Pre-trained Models](#Download-Pre-trained-Models)
+- [Evaluation](#Evaluation)
+- [Train](#Train)
+- [Acknowledgments](#Acknowledgments)
 
 ## Setup/Installation
 ```bash
