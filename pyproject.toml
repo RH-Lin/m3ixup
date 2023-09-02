@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "m3ixup_code"
+version = "1.0.0"
+description = "Official Implementation of M3ixup (Multimodal Mixup)"
+authors = ["Ronghao Lin", "Haifeng Hu"]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
