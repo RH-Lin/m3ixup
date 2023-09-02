@@ -5,14 +5,14 @@ Official Implementation of "Adapt and Explore: Multimodal Mixup for Representati
 ![Overview](docs/Figure1_Overview.png)
 
 ## Table of Contents
-- [Setup/Installation](#setup\/installation)
+- [Setup](#setup)
 - [Download Datasets](#download-datasets)
 - [Download Pre-trained Models](#download-pre-trained-models)
 - [Evaluation](#evaluation)
 - [Train](#train)
 - [Acknowledgments](#acknowledgments)
 
-## Setup/Installation
+## Setup
 ```bash
 conda env create -f m3ixup.yml
 conda activate m3ixup
