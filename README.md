@@ -1,6 +1,6 @@
 # Multimodal Mixup for Representation Learning
 
-Official Implementation of "Adapt and Explore: Multimodal Mixup for Representation Learning"
+> Official Implementation of "Adapt and Explore: Multimodal Mixup for Representation Learning"
 
 ![Overview](docs/Figure1_Overview.png)
 
